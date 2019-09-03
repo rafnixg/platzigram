@@ -14,7 +14,7 @@ def hello_world(request):
     ))
 
 
-def sort_integer(request):
+def sort_integers(request):
     """Return a list of sorted integer."""
     # import pdb; pdb.set_trace()
     res = {}
